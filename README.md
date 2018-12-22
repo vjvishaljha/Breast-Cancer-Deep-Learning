@@ -6,5 +6,11 @@ Classification is the process of predicting the class of given data points. Clas
 
 # The data can be used from sklearn dataset i.e from sklearn.datasets import load_breast_cancer
 
-#Our Goal is to predict the type of breast cancer one have by looking the different Parameters.
+    #Our Goal is to predict the type of breast cancer one have by looking the different Parameters.
 
+    #Libraries Used
+    1.Pandas
+    2.Numpy
+    3.Matplotlib.pyplot
+    4.keras
+    5.sklearn
